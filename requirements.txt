@@ -8,4 +8,4 @@ Flask == 1.1.1
 beautifulsoup4 == 4.8.2
 
 # html_extractor.py: 8
-requests == 2.22.0
+requests == 2.31.0
